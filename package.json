@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Haggus/slack-figlet/issues"
   },
-  "homepage": "https://github.com/Haggus/slack-figlet#readme"
+  "homepage": "https://github.com/Haggus/slack-figlet#readme",
+  "dependencies": {
+    "figlet": "^1.2.4",
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
 }
